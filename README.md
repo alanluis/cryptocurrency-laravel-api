@@ -4,6 +4,7 @@
 
 ## Requirements
 - PHP >= ˆ8.1
+- Composer
 
 ## Quick Start / Installation
 
