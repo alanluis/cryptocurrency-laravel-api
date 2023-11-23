@@ -3,7 +3,6 @@
 namespace App\Providers;
 
 use App\Implementations\CoinGeckoService;
-use App\Implementations\FakeCryptoService;
 use App\Interfaces\CryptocurrencyInterface;
 use Illuminate\Support\ServiceProvider;
 
